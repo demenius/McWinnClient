@@ -1,0 +1,20 @@
+﻿Build started 16/01/2014 8:25:53 PM.
+     1>Project "C:\Users\Braydon\documents\visual studio 2013\Projects\McWinnClient\McWinnClient\McWinnClient.vcxproj" on node 2 (Build target(s)).
+     1>ResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\bin\rc.exe /D NDEBUG /D _USING_V110_SDK71_ /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0409" /IRelease\ /nologo /fo"Release\McWinnClient.res" McWinnClient.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Braydon\documents\visual studio 2013\Projects\McWinnClient\Release\McWinn Filters - Chilliwack.exe" /INCREMENTAL:NO /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"C:\Users\Braydon\documents\visual studio 2013\Projects\McWinnClient\Release\McWinn Filters - Chilliwack.pdb" /SUBSYSTEM:WINDOWS,"5.01" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Braydon\documents\visual studio 2013\Projects\McWinnClient\Release\McWinn Filters - Chilliwack.lib" /MACHINE:X86 /SAFESEH Release\McWinnClient.res
+         Release\CustomerDlg.obj
+         Release\FilterDlg.obj
+         Release\McWinnClient.obj
+         Release\McWinnClientDlg.obj
+         Release\NotesDlg.obj
+         Release\stdafx.obj
+         Generating code
+         Finished generating code
+         McWinnClient.vcxproj -> C:\Users\Braydon\documents\visual studio 2013\Projects\McWinnClient\Release\McWinn Filters - Chilliwack.exe
+     1>Done Building Project "C:\Users\Braydon\documents\visual studio 2013\Projects\McWinnClient\McWinnClient\McWinnClient.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.03
